@@ -13,3 +13,6 @@ mono Border_Removal.exe "<path/to/img>"
 >>Image size: 980x1279
 
 >>Image format: Format24bppRgb
+
+## After White Border removal
+
