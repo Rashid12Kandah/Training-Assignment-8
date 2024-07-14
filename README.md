@@ -7,3 +7,6 @@ mono Border_Removal.exe "<path/to/img>"
 ## Original Image - Husky image with white background
 
 <img src="https://github.com/Rashid12Kandah/Training_Assignment_8/blob/main/husky.jpeg" alt="Husky image with white background" height="652" width="500">
+> Image Information
+>>Image size: 980x1279
+>>Image format: Format24bppRgb
