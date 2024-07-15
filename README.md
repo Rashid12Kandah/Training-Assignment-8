@@ -51,4 +51,4 @@ mono Border_Removal.exe "<path/to/img>"
 >>Time taken: 7 ms
 
 
-
+#### There is a is huge difference in time (in terms of ms's) between applying white border removal on an 8-bit image and a 24-bit image)
