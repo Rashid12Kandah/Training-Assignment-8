@@ -26,3 +26,11 @@ mono Border_Removal.exe "<path/to/img>"
 
 >>Time taken: 50 ms
 
+
+
+## Original Image - Lena(Gray) (Padded 10px)
+
+
+
+
+
