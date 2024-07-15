@@ -4,7 +4,7 @@ csc -unsafe -out:Border_Removal.exe /main:BorderRemoval.ImageProcessing Border_R
 
 mono Border_Removal.exe "<path/to/img>"
 
-## Original Image - Husky image with white background
+## Original Image - Husky image with white background - 24-bit Image
 
 <img src="https://github.com/Rashid12Kandah/Training_Assignment_8/blob/main/husky.jpeg" alt="Original Husky image with white background" height="652" width="500">
 
@@ -14,7 +14,7 @@ mono Border_Removal.exe "<path/to/img>"
 
 >>Image format: Format24bppRgb
 
-## After White Border removal
+## After White Border removal - Still is 24-bit
 
 <img src="https://github.com/Rashid12Kandah/Training_Assignment_8/blob/main/cropped_image.png" alt="Cropped Husky Image with white background" height="414" width="300">
 
