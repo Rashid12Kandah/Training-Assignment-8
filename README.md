@@ -14,7 +14,7 @@ mono Border_Removal.exe "<path/to/img>"
 
 >>Image format: Format24bppRgb
 
-## After White Border removal - Still is 24-bit
+## After White Border removal - Still a 24-bit image
 
 <img src="https://github.com/Rashid12Kandah/Training_Assignment_8/blob/main/cropped_image.png" alt="Cropped Husky Image with white background" height="414" width="300">
 
@@ -28,9 +28,27 @@ mono Border_Removal.exe "<path/to/img>"
 
 
 
-## Original Image - Lena(Gray) (Padded 10px)
+## Original Image - Lena(Gray) (Padded 10px) - 8-bit grayscale image
 
+<img src="https://raw.githubusercontent.com/Rashid12Kandah/Training_Assignment_8/main/padded.bmp" alt="Lena_gray padded 10px">
 
+>Image Information
+
+>>Image size: 542x542
+
+>>Image format: Format8bppIndexed
+
+## After White Border Removal - Still an 8-bit grayscale image
+
+<img src="https://github.com/Rashid12Kandah/Training_Assignment_8/blob/main/Lena_cropped.png" alt="Lena_gray after border removal">
+
+>Image Information
+
+>>Image size: 512x512
+
+>>Cropped image format: Format8bppIndexed
+
+>>Time taken: 7 ms
 
 
 
